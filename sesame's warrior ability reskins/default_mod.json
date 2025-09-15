@@ -8,7 +8,9 @@
     "chara/action/ability/2ax_warrior/abl020.tmb": "default\\chara\\action\\ability\\2ax_warrior\\abl020.tmb",
     "vfx/action/ab_2ax_abi020/eff/ab_2ax020c0c.avfx": "default\\vfx\\action\\ab_2ax_abi020\\eff\\ab_2ax020c0c.avfx",
     "vfx/action/ab_2ax_abi020/eff/ab_2ax020t0c.avfx": "default\\vfx\\action\\ab_2ax_abi020\\eff\\ab_2ax020t0c.avfx",
-    "sound/vfx/ability/SE_VFX_Abi_War_Unstoppable_c.scd": "default\\sound\\vfx\\ability\\SE_VFX_Abi_War_Unstoppable_c.scd"
+    "sound/vfx/ability/SE_VFX_Abi_War_Unstoppable_c.scd": "default\\sound\\vfx\\ability\\SE_VFX_Abi_War_Unstoppable_c.scd",
+    "chara/action/ability/2ax_warrior/abl029.tmb": "default\\chara\\action\\ability\\2ax_warrior\\abl029.tmb",
+    "sound/vfx/ability/SE_VFX_Abi_War_abi29_t.scd": "default\\sound\\vfx\\ability\\SE_VFX_Abi_War_abi29_t.scd"
   },
   "FileSwaps": {},
   "Manipulations": []
