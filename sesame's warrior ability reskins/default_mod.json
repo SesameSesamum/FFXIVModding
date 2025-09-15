@@ -1,0 +1,15 @@
+{
+  "Version": 0,
+  "Files": {
+    "chara/human/c0101/animation/a0001/bt_common/ability/2ax_warrior/abl026.pap": "default\\chara\\human\\c0101\\animation\\a0001\\bt_common\\ability\\2ax_warrior\\abl026.pap",
+    "chara/action/ability/2ax_warrior/abl026.tmb": "default\\chara\\action\\ability\\2ax_warrior\\abl026.tmb",
+    "vfx/action/ab_2ax_abi026/eff/ab_2ax026c0k1.avfx": "default\\vfx\\action\\ab_2ax_abi026\\eff\\ab_2ax026c0k1.avfx",
+    "chara/human/c0101/animation/a0001/bt_common/ability/2ax_warrior/abl020.pap": "default\\chara\\human\\c0101\\animation\\a0001\\bt_common\\ability\\2ax_warrior\\abl020.pap",
+    "chara/action/ability/2ax_warrior/abl020.tmb": "default\\chara\\action\\ability\\2ax_warrior\\abl020.tmb",
+    "vfx/action/ab_2ax_abi020/eff/ab_2ax020c0c.avfx": "default\\vfx\\action\\ab_2ax_abi020\\eff\\ab_2ax020c0c.avfx",
+    "vfx/action/ab_2ax_abi020/eff/ab_2ax020t0c.avfx": "default\\vfx\\action\\ab_2ax_abi020\\eff\\ab_2ax020t0c.avfx",
+    "sound/vfx/ability/SE_VFX_Abi_War_Unstoppable_c.scd": "default\\sound\\vfx\\ability\\SE_VFX_Abi_War_Unstoppable_c.scd"
+  },
+  "FileSwaps": {},
+  "Manipulations": []
+}
